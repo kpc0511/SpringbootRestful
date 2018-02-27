@@ -1,0 +1,10 @@
+com\springrestful\dao\PersonDaoImpl.class
+com\springrestful\dao\PersonDao.class
+com\springrestful\configuration\AppConfig.class
+com\springrestful\model\Person.class
+com\springrestful\model\Result.class
+com\springrestful\controller\PersonController.class
+com\springrestful\services\PersonServiceImpl.class
+com\springrestful\controller\TestController.class
+com\springrestful\services\PersonService.class
+com\springrestful\App.class
